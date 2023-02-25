@@ -1,0 +1,12 @@
+.ul{
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    justify-content: flex-end;
+
+}
+.div{
+    display: flex;
+    background: #c77878;
+    justify-content: flex-end;
+}
